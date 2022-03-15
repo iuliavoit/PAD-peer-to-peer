@@ -8,6 +8,7 @@ Peer to peer file transfer.
 <li>Andrei Stelian Vasile</li>
 <li>Radu Serban</li>
 </ul>
+
 # How to run files
 
 <p>You must be running Linux/Ubuntu Terminal</p>
