@@ -55,9 +55,7 @@ void printMyFiles(char *directorName) {
 }
 
 void Autentificare() {
-	printf("Welcome young padawan!\n\n");
 	printf("We are trying to connect to the server.\n\n");
-	printf("But wait, who are u???\n");
 	printf("Enter name: ");
 	fgets(Name, 32, stdin);
   	if(Name[strlen(Name) - 1] == '\n')
