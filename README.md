@@ -2,11 +2,12 @@
 Peer to peer file transfer.
 
 # Team
--Iulia Voit
+<ul>
+  <li>Iulia Voit</li>
 -Alin Vujde
 -Andrei Stelian Vasile
 -Radu Serban
-
+</ul>
 # How to run files
 
 -You must be running Linux/Ubuntu Terminal
